@@ -68,7 +68,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center">
           <Link to="/" className="flex items-center space-x-2">
             <img 
-              src="/lovable-uploads/7640f347-266e-4d89-83b9-0b84145a7bc7.png" 
+              src="/public/lovable-uploads/7640f347-266e-4d89-83b9-0b84145a7bc7.png" 
               alt="BPS Hackathon Logo" 
               className="h-20 w-auto object-contain"  // Increased logo size with object-contain to maintain aspect ratio
             />

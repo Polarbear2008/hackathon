@@ -134,7 +134,7 @@ const Index = () => {
           playsInline
           className="w-full h-full object-cover"
         >
-          <source src="/hackathon-bg.mp4" type="video/mp4" />
+          <source src="/public/hackathon-bg.mp4" type="video/mp4" />
         </video>
         <div className="absolute inset-0 bg-black/60 backdrop-blur-sm"></div>
       </div>
@@ -647,7 +647,7 @@ const Index = () => {
                   playsInline
                   className="w-full h-full object-cover"
                 >
-                  <source src="/video/video.mp4" type="video/mp4" />
+                  <source src="/public/video/video.mp4" type="video/mp4" />
                 </video>
               </div>
               <div className="absolute bottom-4 left-4 right-4 text-white">

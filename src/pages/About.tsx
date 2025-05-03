@@ -92,37 +92,37 @@ We believe in the power of ideas — and in the next generation of changemakers.
             {[{
             name: "Rajaboyev Doston",
             role: "Founder",
-            image: "/team/Rajaboyev Doston.jpg",
+            image: "/public/team/Rajaboyev Doston.jpg",
             icon: <User className="w-6 h-6" />
           }, {
             name: "Ochilova Dilnura",
             role: "Co-Founder",
-            image: "/team/OchilovaDilnura.jpg",
+            image: "/public/team/OchilovaDilnura.jpg",
             icon: <User className="w-6 h-6" />
           }, {
             name: "Hakimov Baxromshox",
             role: "Marketing Manager",
-            image: "/team/Hakimov Baxromshox.jpg",
+            image: "/public/team/Hakimov Baxromshox.jpg",
             icon: <Briefcase className="w-6 h-6" />
           }, {
             name: "Urakov Ashur",
             role: "HR Management",
-            image: "/team/Urakov Ashur.jpg",
+            image: "/public/team/Urakov Ashur.jpg",
             icon: <Users className="w-6 h-6" />
           }, {
             name: "To'xtayev Miroqil",
             role: "Project Manager",
-            image: "/team/To'xtayev Miroqil.jpg",
+            image: "/public/team/To'xtayev Miroqil.jpg",
             icon: <Projector className="w-6 h-6" />
           }, {
             name: "Toliboyev Shohjahon",
             role: "PR",
-            image: "/team/Toliboyev Shohjahon.jpg",
+            image: "/public/team/Toliboyev Shohjahon.jpg",
             icon: <Megaphone className="w-6 h-6" />
           }, {
             name: "Numonov Samandar",
             role: "Web Developer",
-            image: "/team/Numonov Samandar.jpg",
+            image: "/public/team/Numonov Samandar.jpg",
             icon: <Code className="w-6 h-6" />
           }].map((member, index) => <motion.div key={member.name} initial={{
             opacity: 0,

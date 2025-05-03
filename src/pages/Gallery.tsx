@@ -15,37 +15,37 @@ const Gallery = () => {
       id: 1,
       title: "Opening Ceremony",
       description: "Participants gathering for the kickoff event",
-      url: "/season1/gallery/opening_ceremony.jpg",
+      url: "/public/season1/gallery/opening_ceremony.jpg",
     },
     {
       id: 2,
       title: "Coding Marathon",
       description: "Teams working through the night",
-      url: "/season1/gallery/coding_marathon.jpg",
+      url: "/public/season1/gallery/coding_marathon.jpg",
     },
     {
       id: 3,
       title: "Workshop Session",
       description: "Learning new technologies from industry experts",
-      url: "/season1/gallery/workshop_session.jpg",
+      url: "/public/season1/gallery/workshop_session.jpg",
     },
     {
       id: 4,
       title: "Brainstorming",
       description: "Teams collaborating and generating ideas",
-      url: "/season1/gallery/brainstorming.jpg",
+      url: "/public/season1/gallery/brainstorming.jpg",
     },
     {
       id: 5,
       title: "Presentation Time",
       description: "Teams presenting their final projects to judges",
-      url: "/season1/gallery/presentation_time.jpg",
+      url: "/public/season1/gallery/presentation_time.jpg",
     },
     {
       id: 6,
       title: "Award Ceremony",
       description: "Celebrating the winners and all participants",
-      url: "/season1/gallery/award_ceremony.jpg",
+      url: "/public/season1/gallery/award_ceremony.jpg",
     },
   ];
 
@@ -94,7 +94,7 @@ const Gallery = () => {
                         className="w-full h-[300px] object-cover object-center transition-transform hover:scale-110 duration-700"
                         onError={(e) => {
                           const img = e.target as HTMLImageElement;
-                          img.src = '/season1/gallery/placeholder.jpg';
+                          img.src = '/public/season1/gallery/placeholder.jpg';
                         }}
                       />
                       <div className="p-3 bg-hackathon-navy/70">
