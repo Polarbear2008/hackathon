@@ -91,7 +91,7 @@ We believe in the power of ideas — and in the next generation of changemakers.
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16">
             {[{
             name: "Rajaboyev Doston",
-            role: "Founder",
+            role: "Co-Founder",
             image: "/team/Rajaboyev Doston.jpg",
             icon: <User className="w-6 h-6" />
           }, {
