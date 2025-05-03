@@ -29,10 +29,10 @@ const Mentors = () => {
       socials: { twitter: "#", linkedin: "#", github: "#" }
     },
     {
-      name: "Abdurahim Abdumo'minov",
+      name: "Abdurahmon Abdumominov",
       role: "Main Manager",
       company: "DOTS",
-      image: "/lovable-uploads/Abdurahim Abdumo'minov.JPG",
+      image: "/lovable-uploads/Abdurahmon Abdumominov.JPG",
       bio: "Main manager at DOTS.",
       socials: { twitter: "#", linkedin: "#", github: "#" }
     },
