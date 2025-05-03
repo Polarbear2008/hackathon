@@ -8,7 +8,7 @@ const Mentors = () => {
       name: "Muhammad Annas",
       role: "GMU MASE Hackathon Winner",
       company: "Duke of Edinburgh Silver Award",
-      image: "/Mentors/Muhammad Annas.jpg",
+      image: "/mentors/Muhammad Annas.jpg",
       bio: "GMU MASE Hackathon Winner with the Duke of Edinburgh Silver Award.",
       socials: { twitter: "#", linkedin: "#", github: "#" }
     },
@@ -16,7 +16,7 @@ const Mentors = () => {
       name: "Firdavs Navro'zov",
       role: "Founder",
       company: "The Knowledge Academy International School",
-      image: "/Mentors/Firdavs Navro'zov.png",
+      image: "/mentors/Firdavs Navro'zov.png",
       bio: "Founder of The Knowledge Academy international school and Bookhara cafe owner.",
       socials: { twitter: "#", linkedin: "#", github: "#" }
     },
@@ -24,7 +24,7 @@ const Mentors = () => {
       name: "Zarnigor Bozorova",
       role: "Founder",
       company: "The Knowledge Academy International School",
-      image: "/Mentors/Zarnigor Bozorova.png",
+      image: "/mentors/Zarnigor Bozorova.png",
       bio: "Founder of The Knowledge Academy international school and Bookhara cafe owner.",
       socials: { twitter: "#", linkedin: "#", github: "#" }
     },
@@ -32,7 +32,7 @@ const Mentors = () => {
       name: "Abdurahim Abdumo'minov",
       role: "Main Manager",
       company: "DOTS",
-      image: "/Mentors/Abdurahim Abdumo'minov.JPG",
+      image: "/mentors/Abdurahim Abdumo'minov.JPG",
       bio: "Main manager at DOTS.",
       socials: { twitter: "#", linkedin: "#", github: "#" }
     },
@@ -40,7 +40,7 @@ const Mentors = () => {
       name: "Firdavs G'faurjonov",
       role: "Regional Manager",
       company: "Start-up Garage",
-      image: "/Mentors/Firdavs G'faurjonov.png",
+      image: "/mentors/Firdavs G'faurjonov.png",
       bio: "Regional Manager at Start-up Garage.",
       socials: { twitter: "#", linkedin: "#", github: "#" }
     },
@@ -48,7 +48,7 @@ const Mentors = () => {
       name: "Sanjar Nasilloyev",
       role: "Regional Manager",
       company: "Start-up Garage",
-      image: "/Mentors/Sanjar Nasilloyev.png",
+      image: "/mentors/Sanjar Nasilloyev.png",
       bio: "Regional Manager at Start-up Garage.",
       socials: { twitter: "#", linkedin: "#", github: "#" }
     }
